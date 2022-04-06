@@ -1,3 +1,7 @@
+:root {
+    --back: #0E77AF;
+}
 .links {
-    background-color: blue;
+    background-color: var(--back);
+
 }
