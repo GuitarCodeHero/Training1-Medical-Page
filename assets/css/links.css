@@ -3,5 +3,8 @@
 }
 .links {
     background-color: var(--back);
+}
 
+.links img {
+    justify-content: end;
 }
