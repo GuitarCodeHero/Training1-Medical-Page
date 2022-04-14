@@ -1,12 +1,27 @@
 :root {
     --back: #0E77AF;
+    --cleanwhite: #FFFFFF;
 }
 .wrapper-head {
     background-color: var(--back);
     height: 40px;
 }
-
+.links {
+    top: 25%;
+    position: relative;
+}
 .links a {
     padding-top: 50px;
-    padding-left: 131px;
+    padding-left: 20px;
+}
+
+.icons_fb {
+    padding-left: 135px;
+}
+
+.www {
+    color: var(--cleanwhite);
+    font-family: 'Asap', sans-serif;
+    font-size: 12px;
+    margin-left: 1250px;
 }
