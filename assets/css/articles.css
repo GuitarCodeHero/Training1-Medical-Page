@@ -5,3 +5,14 @@
 .img_logo {
     padding-left: 150px;
 }
+
+li a {
+    text-decoration: none;
+}
+
+.basic_menu {
+    font-family: 'Asap', sans-serif;
+    font-size: 14px;
+    list-style-type: none;
+    color: black;
+}

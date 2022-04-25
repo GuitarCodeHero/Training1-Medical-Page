@@ -1,6 +1,7 @@
 :root {
     --back: #0E77AF;
     --cleanwhite: #FFFFFF;
+    --cleanblack: #000000
 }
 .wrapper-head {
     background-color: var(--back);
