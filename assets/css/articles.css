@@ -16,3 +16,7 @@ li a {
     list-style-type: none;
     color: black;
 }
+
+.basic_menu_nav {
+    color: var(--cleanblack);
+}
