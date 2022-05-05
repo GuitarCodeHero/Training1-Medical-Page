@@ -14,9 +14,17 @@ li a {
     font-family: 'Asap', sans-serif;
     font-size: 14px;
     list-style-type: none;
-    color: black;
+}
+
+.bold_text {
+    font-weight: bold;
+    color: var(--cleanblack);
 }
 
 .basic_menu_nav {
     color: var(--cleanblack);
+}
+
+.img_pic {
+padding: 0 0 0 1350px;
 }
