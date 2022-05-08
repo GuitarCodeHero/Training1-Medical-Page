@@ -14,6 +14,8 @@ li a {
     font-family: 'Asap', sans-serif;
     font-size: 14px;
     list-style-type: none;
+    display: flex;
+    padding-left: 400px;
 }
 
 .bold_text {
@@ -23,6 +25,7 @@ li a {
 
 .basic_menu_nav {
     color: var(--cleanblack);
+    margin: 30px;
 }
 
 .img_pic {
