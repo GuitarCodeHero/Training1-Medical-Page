@@ -16,6 +16,8 @@ li a {
     list-style-type: none;
     display: flex;
     padding-left: 400px;
+    position: absolute;
+    padding-bottom: 600px;
 }
 
 .bold_text {
